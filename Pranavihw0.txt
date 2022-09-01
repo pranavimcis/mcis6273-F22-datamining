@@ -1,0 +1,21 @@
+# Zotero Username
+
+**pranavimcis**
+
+## Three things learnt from the podcast
+
+- Both Github and Jupiter Notebooks are examples of open source software. Github enables global sharing of such knowledge for greater good, similar to how scientists, students, programmers, and other professionals utilize notebooks for documentation.
+
+- Jupiter notebooks have a lot of latent potential that many users haven't completely explored to use it to its potential.
+
+- Originally designed for scientists and professionals, Jupiter notebooks are now accessible to everyone and can be used for presentations as well as documentation.
+
+
+## What is your reaction to the podcast? Pick at least one point Adam brought up in the interview that you agree with and list your reason why
+
+
+They conducted their investigation after looking over nearly 500,000 Jupiter notebook Github repositories, according to the podcast. Strangely, a lot of people believe that Jupiter notebooks are not regarded as a presentation tool. Jupiter is undervalued, and I concur with Adam on this. Many are utilizing it carelessly, disregarding all the potential benefits and opportunities it presents for future projects and research articles. Many people underrate it, perhaps because they are unaware of all of its features, like plugins, libraries, the capacity to construct libraries, and the ability to be customized and worked around for specific tasks. The analysis clearly shows that even very large, sophisticated projects are not using markdown to document their work very well. Instead of documenting, simple comments have been used.
+
+## After listening to the podcast, do you think you are more interested or less interested in learning from Jupyter notebooks on Github?
+
+I can't wait to learn more about Jupyter notebooks on Github. This would improve my ability to write in Markdown, enable me to share my project globally, and teach me new abilities.
